@@ -1,0 +1,5 @@
+tanimla x = 20
+tanimla y = 20
+tanimla z = x + y
+
+goster z
